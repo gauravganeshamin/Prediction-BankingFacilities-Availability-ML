@@ -16,7 +16,7 @@ late/early the bill was paid), amount to be paid, amount paid for credit card bi
 customer will be able to pay his credit card bills without defaulting. Target is whether the customer will repay his next credit
 card bill in time or not. The dataset was obtained from University of California Irvine Machine Learning repository.
 
-Details of all datasets are tabulated in Table 1.After data collection, appropriate data preprocessing steps such as removal of
+After data collection, appropriate data preprocessing steps such as removal of
 redundant attributes, filling up of null/NaN values with the respective column’s average value or removing the respective row
 depending upon the situation, scaling, encoding, data visualization, removing of outliers, etc were done.
 
